@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">KamalFruit</string>
+    <string name="description">Deskripsi</string>
+    <string name="fruit_name">Nama Buah</string>
+    <string name="About">About</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="nama_kamal">Muhamad Rafli kamal</string>
+    <string name="email">mraflikamal28@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Buah Alpukat</item>
+        <item>Buah Anggur</item>
+        <item>Buah Apel</item>
+        <item>Buah Jambu Air</item>
+        <item>Buah Jambu Biji</item>
+        <item>Buah Jeruk</item>
+        <item>Buah Kiwi</item>
+        <item>Buah Leci</item>
+        <item>Buah Mangga</item>
+        <item>Buah Melon</item>
+        <item>Buah Naga</item>
+        <item>Buah Nanas</item>
+        <item>Buah Pisang</item>
+        <item>Buah Salak</item>
+        <item>Buah Semangka</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Alpukat adalah buah yang kaya akan lemak sehat, terutama asam lemak tak jenuh tunggal yang sangat baik untuk kesehatan jantung. Selain itu, alpukat juga mengandung serat tinggi yang membantu pencernaan, serta vitamin C, E, K, dan B6 yang penting untuk kesehatan kulit dan sistem kekebalan tubuh. Alpukat sering dianggap sebagai buah super karena kandungan nutrisinya yang luar biasa dan kemampuannya untuk menurunkan kadar kolesterol serta membantu penyerapan nutrisi dari makanan lain.</item>
+
+        <item>Anggur kecil tapi kaya manfaat, terutama karena kandungan antioksidan seperti resveratrol yang dapat membantu melindungi jantung dan mencegah penuaan dini. Selain itu, anggur mengandung vitamin C dan K yang mendukung sistem kekebalan dan kesehatan tulang. Buah ini juga membantu hidrasi karena mengandung banyak air. Konsumsi anggur secara teratur dapat membantu menjaga tekanan darah dan meningkatkan kesehatan otak.</item>
+
+        <item>Apel, buah yang sering disebut sebagai "buah dokter," mengandung banyak serat pektin yang dapat membantu menurunkan kolesterol dan menjaga kesehatan jantung. Apel juga kaya akan vitamin C yang memperkuat sistem kekebalan tubuh. Selain itu, apel memiliki sifat antioksidan yang dapat melawan radikal bebas dan membantu menjaga kesehatan kulit. Dengan kandungan air yang tinggi, apel juga membantu hidrasi dan menjaga pencernaan tetap sehat.</item>
+
+        <item>Jambu Air adalah buah yang menyegarkan dengan kandungan air yang sangat tinggi, menjadikannya pilihan sempurna untuk mencegah dehidrasi. Meskipun rendah kalori, buah ini mengandung vitamin C yang membantu memperkuat sistem kekebalan tubuh dan meningkatkan kesehatan kulit. Jambu air juga kaya akan antioksidan yang membantu tubuh melawan radikal bebas, menjadikannya pilihan sehat yang menyehatkan.</item>
+
+        <item>Jambu Biji terkenal dengan kandungan vitamin C yang sangat tinggi, bahkan lebih tinggi daripada jeruk. Ini membuatnya menjadi buah yang sangat baik untuk memperkuat sistem kekebalan tubuh. Selain itu, jambu biji mengandung serat tinggi yang dapat memperbaiki pencernaan dan membantu mengontrol kadar gula darah. Antioksidan dalam jambu biji juga mendukung kesehatan jantung dengan mencegah oksidasi kolesterol dalam darah.</item>
+
+        <item>Jeruk adalah sumber vitamin C yang sangat baik, membantu meningkatkan sistem kekebalan tubuh, melindungi kulit dari kerusakan akibat radikal bebas, dan membantu mempercepat penyembuhan luka. Selain itu, jeruk mengandung serat yang baik untuk pencernaan serta flavonoid yang berperan penting dalam menjaga kesehatan jantung dengan menurunkan tekanan darah dan kadar kolesterol.</item>
+
+        <item>Kiwi adalah buah kecil yang penuh dengan manfaat besar. Kiwi mengandung lebih banyak vitamin C daripada jeruk, serta vitamin E yang berperan sebagai antioksidan kuat. Buah ini juga kaya akan serat yang membantu menjaga pencernaan tetap sehat. Kiwi sering dianggap sebagai buah "super" karena manfaatnya yang dapat mendukung kekebalan tubuh, kesehatan kulit, dan pencernaan yang baik.</item>
+
+        <item>Leci adalah buah tropis yang memiliki rasa manis dan menyegarkan. Buah ini kaya akan vitamin C dan antioksidan yang membantu meningkatkan kekebalan tubuh dan melindungi kulit dari penuaan dini. Leci juga mengandung potasium yang membantu menjaga tekanan darah tetap stabil. Buah ini rendah kalori, tetapi kaya akan nutrisi yang mendukung kesehatan tubuh secara keseluruhan.</item>
+
+        <item>Mangga dikenal sebagai "raja buah" karena rasa manisnya dan kandungan nutrisinya yang kaya. Mangga mengandung vitamin A yang sangat baik untuk kesehatan mata, serta vitamin C yang mendukung sistem kekebalan tubuh. Buah ini juga mengandung serat yang membantu pencernaan dan antioksidan yang melawan peradangan, menjadikan mangga buah yang sempurna untuk menjaga kesehatan tubuh secara menyeluruh.</item>
+
+        <item>Melon adalah buah yang menyegarkan dengan kandungan air yang sangat tinggi, menjadikannya pilihan sempurna untuk menjaga tubuh tetap terhidrasi, terutama di cuaca panas. Selain itu, melon kaya akan vitamin C yang mendukung sistem kekebalan tubuh, serta vitamin A yang baik untuk kesehatan mata dan kulit. Dengan rasa manis dan tekstur lembutnya, melon juga sangat disukai sebagai camilan sehat.</item>
+
+        <item>Buah Naga memiliki penampilan yang unik dan kandungan nutrisi yang mengesankan. Kaya akan vitamin C, serat, dan antioksidan, buah naga sangat baik untuk meningkatkan kesehatan pencernaan, menjaga kesehatan kulit, dan memperkuat sistem kekebalan tubuh. Selain itu, buah ini rendah kalori sehingga cocok untuk diet, sekaligus membantu mengurangi risiko penyakit kronis berkat antioksidannya.</item>
+
+        <item>Nanas terkenal dengan enzim bromelain yang membantu pencernaan, terutama dalam memecah protein. Buah ini juga kaya akan vitamin C yang memperkuat sistem kekebalan tubuh, serta antioksidan yang melindungi tubuh dari peradangan. Nanas juga memiliki sifat antiinflamasi yang membantu mengurangi nyeri dan mempercepat penyembuhan luka.</item>
+
+        <item>Pisang adalah sumber potasium yang sangat baik, yang membantu mengatur tekanan darah dan menjaga kesehatan jantung. Pisang juga mengandung vitamin B6 yang mendukung fungsi otak dan produksi hormon, serta serat yang membantu menjaga kesehatan pencernaan. Buah ini juga dikenal sebagai penyedia energi instan karena kandungan karbohidratnya yang mudah dicerna.</item>
+
+        <item>Salak, atau dikenal sebagai "snake fruit" karena kulitnya yang bersisik, adalah buah yang kaya akan serat dan vitamin C. Salak sangat baik untuk kesehatan pencernaan, membantu memperbaiki penglihatan, dan mendukung sistem kekebalan tubuh. Dengan rasa yang manis dan sedikit asam, salak juga menjadi buah yang menyegarkan.</item>
+
+        <item>Semangka adalah buah dengan kandungan air yang sangat tinggi, menjadikannya pilihan sempurna untuk hidrasi. Selain itu, semangka mengandung likopen, antioksidan kuat yang baik untuk kesehatan jantung dan dapat mengurangi risiko beberapa jenis kanker. Semangka juga kaya akan vitamin A dan C yang mendukung kesehatan kulit dan sistem kekebalan tubuh.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alpukat</item>
+        <item>@drawable/anggur</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/jambuair</item>
+        <item>@drawable/jambubiji</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/leci</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/melon</item>
+        <item>@drawable/naga</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/salak</item>
+        <item>@drawable/semangka</item>
+    </integer-array>
+</resources>
